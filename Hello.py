@@ -10,4 +10,5 @@ print("Hello, world!")
 
 
 
- "Create hello.py".
+# This line does not belong "Create hello.py".
+# There is a comment missing and entry in the commit history.
