@@ -1,4 +1,8 @@
-                  Reflections.
+#                  Reflections.
+
+## Comments
+- Use the Markdown format (.md)  for this log and other "text" documents in the future. See the resource in the course repository.
+- Please answe the questions that start with *what you have learned*
 
 The goal of reflection logging is for you to take a step back and see what you must do to improve.
 
