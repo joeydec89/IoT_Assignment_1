@@ -34,11 +34,12 @@ when an error happens or when we get stuck in a situation that we are not famili
 
                Linux and  Git Commands.
 
-git push: To push the changes back to GitHub, type.
-git commit: git commit -m "Your message"
-git log: committe  changes to your local Git repository
-git push origin main: To push the changes back to GitHub
-git push: To push the changes back to GitHub
-git add : To commit the changes with a message describing them, type
-
-
+- git push: To push the changes back to GitHub, type.
+- git commit: git commit -m "Your message"
+- git log: committe  changes to your local Git repository
+- git push origin main: To push the changes back to GitHub
+- git push: To push the changes back to GitHub
+- git add : To commit the changes with a message describing them, type
+- **git status:...**
+- **cd**
+- **...**
